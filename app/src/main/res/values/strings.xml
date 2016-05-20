@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Uniara Virtual</string>
+
+    <string name="refresh">Refresh</string>
+
+    <!-- Text's -->
+    <string name="txt_sign_in">Sign In</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="txt_grades">Grades</string>
+    <string name="txt_first_quarter">1º: %s</string>
+    <string name="txt_second_quarter">2º: %s</string>
+    <string name="txt_third_quarter">3º: %s</string>s
+    <string name="txt_fourth_quarter">4º: %s</string>
+    <string name="txt_partial_average">Average: %s</string>
+    <string name="txt_replacement">Replace: %s</string>
+    <string name="txt_recovery">Recovery: %s</string>
+    <string name="txt_searching_data">Searching Data</string>
+    <string name="txt_files">Files</string>
+    <string name="txt_fields_required">Required Fields</string>
+    <string name="txt_available_files">Available Files</string>
+    <string name="txt_exit">Exit</string>
+    <string name="txt_absences">Absences</string>
+    <string name="txt_frequency">Frequency: %s</string>
+    <string name="txt_quantity">Total: %s</string>
+    <string name="txt_information_grades">Not exist Grades</string>
+    <string name="txt_information_absences">Not exist Absences</string>
+
+    <!-- Labels -->
+    <string name="lbl_information">Information</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_register_student">Student Record</string>
+
+    <!-- Messages -->
+    <string name="msg_waiting">Waiting</string>
+    <string name="msg_download">Downloading file …</string>
+    <string name="msg_information_list_files">Click the name of materials to see the file list</string>
+    <string name="msg_information_download">Check the folder /UniaraVirtual</string>
+    <string name="msg_download_complete">Download complete</string>
+    <string name="msg_download_prepare">Wait for the download file</string>
+    <string name="msg_download_error">Error to download the file</string>
+    <string name="msg_error_connection">Erro connection</string>
+</resources>

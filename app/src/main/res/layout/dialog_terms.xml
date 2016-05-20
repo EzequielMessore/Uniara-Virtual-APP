@@ -1,0 +1,22 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title_dialog"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@color/material_light_blue_500"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:textColor="@color/material_light_blue_900"/>
+
+    <CheckBox
+        android:id="@+id/checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Não exibir está mensagem novamente"/>
+</LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uniara Virtual</string>
+    <string name="refresh">Atualizar</string>
+
+    <!-- Labels -->
+    <string name="lbl_register_student">Registro do Aluno (RA)</string>
+    <string name="lbl_password">Senha</string>
+    <string name="lbl_information">Informação</string>
+
+    <!-- Texts -->
+    <string name="txt_sign_in">Entrar</string>
+    <string name="txt_welcome">Bem-Vindo</string>
+    <string name="txt_grades">Notas</string>
+    <string name="txt_first_quarter">1º: %s</string>
+    <string name="txt_second_quarter">2º: %s</string>
+    <string name="txt_third_quarter">3º: %s</string>
+    <string name="txt_fourth_quarter">4º: %s</string>
+    <string name="txt_partial_average">Média %s</string>
+    <string name="txt_replacement">Sub: %s</string>
+    <string name="txt_recovery">Exame: %s</string>
+    <string name="txt_searching_data">Buscando Dados</string>
+    <string name="txt_files">Arquivos</string>
+    <string name="txt_fields_required">Campo Obrigatório</string>
+    <string name="txt_exit">Sair</string>
+    <string name="txt_absences">Faltas</string>
+    <string name="txt_frequency">Frequência: %s</string>
+    <string name="txt_quantity">Total: %s</string>
+    <string name="txt_information_grades">Não existem notas lançadas no sistema</string>
+    <string name="txt_information_absences">Não existem faltas lançadas no sistema</string>
+
+    <!-- Mensages -->
+    <string name="msg_download">Download do Arquivo …</string>
+    <string name="msg_information_list_files">Clique no nome das matérias para ver a lista de arquivos</string>
+    <string name="msg_waiting">Aguarde…</string>
+    <string name="msg_information_download">Verifique a pasta /UniaraVirtual</string>
+    <string name="txt_available_files">Arquivos Disponíveis</string>
+    <string name="msg_download_complete">Download Completo</string>
+    <string name="msg_download_prepare">Aguarde para  o download arquivo</string>
+    <string name="msg_download_error">Error to download the file</string>
+    <string name="msg_error_connection">Erro na conexão</string>
+
+</resources>
